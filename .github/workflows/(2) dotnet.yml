@@ -27,4 +27,4 @@ jobs:
       working-directory: CountingApi # Add this line if your .csproj or .sln files are in the `src` folder
     - name: Test
       run: dotnet test --no-build --verbosity normal
-      working-directory: CountingApi (1)/CountingApi # Add this line if your test projects are in the `src` folder
+      working-directory: CountingApi # Add this line if your test projects are in the `src` folder
