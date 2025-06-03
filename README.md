@@ -1,2 +1,2 @@
 # Counting-MVC-API
-C# Counting MVC API 
+This is a .Net Web API deployed on Railway.
